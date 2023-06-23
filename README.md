@@ -1,6 +1,6 @@
 # Renan Gabriel
 
-- 🏫 Graduating in Information Systems at the Federal University of Piauí.
+- 🏫 Graduating in Sistemas de Informação (Information Systems) at the Federal University of Piauí
 
 - 🌱 Backend Developer
 
