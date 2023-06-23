@@ -1,19 +1,18 @@
 # Renan Gabriel
 
-- 📚 Graduating in Information Systems at the Federal University of Piauí.
+- 🏫 Graduating in Information Systems at the Federal University of Piauí.
 
 - 🌱 Backend Developer
 
 - 🔭 I'm looking for my first job
 
-<div style="gap: .25rem">
-  <img width="370rem" src="https://streak-stats.demolab.com/?user=renansilva15&theme=dracula" alt="Renan's GitHub streak stats">
 
-  <img width="370rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansilva15&layout=compact&count_private=true&show_icons=true&theme=dracula" alt="Renan's Github Most Used Languages">
-</div>
+<img width="370rem" src="https://streak-stats.demolab.com/?user=renansilva15&theme=dracula" alt="Renan's GitHub streak stats">
+
+<img width="370rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansilva15&layout=compact&count_private=true&show_icons=true&theme=dracula" alt="Renan's Github Most Used Languages">
 
 
-### Skills 
+### 💻 Skills 
 
 <div style="display: inline_block">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,7 +26,7 @@
 </div><br />
 
 
-### Learning 
+### 📚 Learning 
 
 <div style="display: inline_block">
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
