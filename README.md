@@ -6,11 +6,13 @@
 
 - 🔭 Looking for my first job
 
+<br />
 
 <img width="370rem" src="https://streak-stats.demolab.com/?user=renansilva15&theme=dracula" alt="Renan's GitHub streak stats">
 
 <img width="370rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansilva15&layout=compact&count_private=true&show_icons=true&theme=dracula" alt="Renan's Github Most Used Languages">
 
+<br />
 
 ### 💻 Skills 
 
@@ -23,8 +25,9 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-1B222D?style=for-the-badge&logo=prisma"/>
-</div><br />
+</div>
 
+<br />
 
 ### 📚 Learning 
 
@@ -33,18 +36,19 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-</div><br />
+</div>
 
+<br />
 
-<!-- ### Interest  -->
-
+<!-- 
+### Interest
 
 <div style="display: inline_block">
-  <!-- <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> -->
+  <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+</div>
 
-</div><br />
-
-
+<br />
+-->
 ### 📫 Contact me: [![Linkedin](https://img.shields.io/badge/-renansilva15-0e76a8?style=flat&logo=linkedin&link=https://www.linkedin.com/in/renansilva15/)](https://www.linkedin.com/in/renansilva15/)&nbsp; [![Email](https://img.shields.io/badge/-renangabrielsilva150@gmail.com-red?style=flat&logo=gmail)](mailto:renangabrielsilva150@gmail.com)
