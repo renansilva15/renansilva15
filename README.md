@@ -4,7 +4,7 @@
 
 - 🌱 Backend Developer
 
-- 🔭 I'm looking for my first job
+- 🔭 Looking for my first job
 
 
 <img width="370rem" src="https://streak-stats.demolab.com/?user=renansilva15&theme=dracula" alt="Renan's GitHub streak stats">
