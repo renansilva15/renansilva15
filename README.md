@@ -12,7 +12,6 @@
 
 <img width="370rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansilva15&layout=compact&count_private=true&show_icons=true&theme=dracula" alt="Renan's Github Most Used Languages">
 
-<br />
 
 ### 💻 Skills 
 
@@ -37,10 +36,9 @@
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
-
+<!--
 <br />
-
-<!-- 
+ 
 ### Interest
 
 <div style="display: inline_block">
@@ -48,7 +46,7 @@
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 </div>
-
-<br />
 -->
+
+
 ### 📫 Contact me: [![Linkedin](https://img.shields.io/badge/-renansilva15-0e76a8?style=flat&logo=linkedin&link=https://www.linkedin.com/in/renansilva15/)](https://www.linkedin.com/in/renansilva15/)&nbsp; [![Email](https://img.shields.io/badge/-renangabrielsilva150@gmail.com-red?style=flat&logo=gmail)](mailto:renangabrielsilva150@gmail.com)
