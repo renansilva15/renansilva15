@@ -14,7 +14,6 @@
 
 
 ### 💻 Skills 
-
 <div style="display: inline_block">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -26,10 +25,7 @@
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-1B222D?style=for-the-badge&logo=prisma"/>
 </div>
 
-<br />
-
 ### 📚 Learning 
-
 <div style="display: inline_block">
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -37,10 +33,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 <!--
-<br />
- 
 ### Interest
-
 <div style="display: inline_block">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -48,5 +41,6 @@
 </div>
 -->
 
+<br />
 
 ### 📫 Contact me: [![Linkedin](https://img.shields.io/badge/-renansilva15-0e76a8?style=flat&logo=linkedin&link=https://www.linkedin.com/in/renansilva15/)](https://www.linkedin.com/in/renansilva15/)&nbsp; [![Email](https://img.shields.io/badge/-renangabrielsilva150@gmail.com-red?style=flat&logo=gmail)](mailto:renangabrielsilva150@gmail.com)
