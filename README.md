@@ -8,9 +8,11 @@
 
 <br />
 
-<img width="370rem" src="https://streak-stats.demolab.com/?user=renansilva15&theme=dracula" alt="Renan's GitHub streak stats">
-
-<img width="370rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansilva15&layout=compact&count_private=true&show_icons=true&theme=dracula" alt="Renan's Github Most Used Languages">
+<div style="display: flex;">
+  <img style="height: 178px;" src="https://streak-stats.demolab.com/?user=renansilva15&theme=dracula" alt="Renan's GitHub streak stats">
+  
+  <img style="height: 178px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansilva15&layout=compact&count_private=true&show_icons=true&theme=dracula" alt="Renan's Github Most Used Languages">
+</div>
 
 
 ### 💻 Skills 
