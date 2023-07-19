@@ -17,7 +17,7 @@
 
 ### 📌Projects
 
- - Come soon
+ - Come Soon
 
 ### 💻 Skills 
 <div style="display: inline_block">
