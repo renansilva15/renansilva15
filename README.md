@@ -2,9 +2,9 @@
 
 - :school: Graduating in Information Systems at the Federal University of Piauí
 
-- 🌱 Backend Developer
+- :seedling: Backend Developer
 
-- 🔭 Looking for experiences
+- :telescope: Looking for experiences
 
 <br />
 
@@ -36,7 +36,5 @@
   <!-- <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
 </div>
 
-<br />
-
-### :incoming_envelope: Contact me
+### :mailbox_with_mail: Contact me
 [![Linkedin](https://img.shields.io/badge/-renansilva15-0e76a8?style=flat&logo=linkedin&link=https://www.linkedin.com/in/renansilva15/)](https://www.linkedin.com/in/renansilva15/)&nbsp; [![Email](https://img.shields.io/badge/-renangabrielsilva150@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:renangabrielsilva150@gmail.com)
