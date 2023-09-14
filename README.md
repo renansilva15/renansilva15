@@ -2,9 +2,9 @@
 
 - :school: Graduating in Information Systems at the Federal University of Piauí
 
-- :seedling: Backend Developer
+- :seedling: Full Stack Developer
 
-- :telescope: Looking for experiences
+- :factory: Full Stack Intern at [Fábrica de Gênios](https://fabricadegenios.com.br/)
 
 <br />
 
