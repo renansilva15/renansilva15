@@ -6,7 +6,7 @@
 
 - :factory: Full Stack Intern at [Fábrica de Gênios](https://fabricadegenios.com.br/)
 
-<div style="display: flex; gap: .25rem">
+<div style="display: flex; gap: 4px;">
   <img style="height: 175px;" src="https://streak-stats.demolab.com/?user=renansilva15&theme=dracula" alt="Renan's GitHub streak stats">
   <img style="height: 175px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansilva15&layout=compact&count_private=true&show_icons=true&theme=dracula" alt="Renan's Github Most Used Languages">
 </div>
