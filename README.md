@@ -1,5 +1,5 @@
 # Renan Gabriel
-
+ <!--
 - :school: Graduating in Information Systems at the Federal University of Piauí
 
 - :seedling: Full Stack Developer
@@ -20,3 +20,4 @@
 
 ### :mailbox_with_mail: Contact me
 [![Linkedin](https://img.shields.io/badge/-renansilva15-0e76a8?style=flat&logo=linkedin&link=https://www.linkedin.com/in/renansilva15/)](https://www.linkedin.com/in/renansilva15/)&nbsp; [![Email](https://img.shields.io/badge/-renangabrielsilva150@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:renangabrielsilva150@gmail.com)
+-->
